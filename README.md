@@ -29,7 +29,7 @@ N/A
     GitHub: https://github.com/01Magdalenawild091@gmail.com  
     Email: Magdalenawild091@gmail.com
     
-   ![screenshot of README demo](/assets/)
+   ![screenshot of README demo](/assets/Screenshot 2023-02-23 at 9.19.43 AM.png)
 
   ## Demo
   [Video demonstration of command line application ]

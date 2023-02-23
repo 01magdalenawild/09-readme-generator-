@@ -13,7 +13,7 @@
 * [Licenses](#licenses)
 
 ## Description
-Generator was created to using NodeJS, inqurier which aligns with NPM products to generate a professional ReadMe
+Generatr was created using NodeJS, inquirer which aligns with NPM products to geneate a professional ReadMe
 ## Installation
 N/A
 ## Usage
@@ -25,11 +25,11 @@ N/A
 ## Questions
 
     Have questions about this project?  
-    GitHub: https://github.com/01Magdalenawild  
+    GitHub: https://github.com/01Magdalenawild091@gmail.com  
     Email: Magdalenawild091@gmail.com
 
 ## Credits
-Magdalena Wild
+MagdalenaWild
 
 
 ## Licenses

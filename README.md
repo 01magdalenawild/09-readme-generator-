@@ -28,6 +28,11 @@ N/A
     Have questions about this project?  
     GitHub: https://github.com/01Magdalenawild091@gmail.com  
     Email: Magdalenawild091@gmail.com
+    
+   ![screenshot of README demo](/assets/)
+
+  ## Demo
+  [Video demonstration of command line application ]
 
 ## Credits
 MagdalenaWild

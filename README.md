@@ -32,7 +32,7 @@ N/A
    ![screenshot of README demo](/assets/Screenshot 2023-02-23 at 9.19.43 AM.png)
 
   ## Demo
-  [Video demonstration of command line application ]
+  [Video demonstration of command line application ]https://youtu.be/i9YMU0eQ5h4
 
 ## Credits
 MagdalenaWild
